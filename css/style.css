@@ -38,10 +38,6 @@ color: #303030;
     cursor: pointer; 
 }
 
-.cls-1:hover {
-    fill:#d3d3d3;
-}
-
 svg {
     max-width: 600px;
     margin-left: auto;
